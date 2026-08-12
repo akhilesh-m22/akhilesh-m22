@@ -71,7 +71,6 @@ An application designed to help users manage medicine schedules and reminders.
 
 ---
 
-```markdown
 ## 🧠 Areas of Interest
 
 - 🤖 Artificial Intelligence & Machine Learning
