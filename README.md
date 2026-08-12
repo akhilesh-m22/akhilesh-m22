@@ -8,7 +8,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-akhilesh--m22-181717?style=for-the-badge\&logo=github)](https://github.com/akhilesh-m22)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](www.linkedin.com/in/akhileshm22)
 
 </div>
 
