@@ -30,7 +30,7 @@ Interested in distributed systems, networking, backend development and Linux.
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,sql" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,js,sql" />
 </p>
 
 ### AI / ML
