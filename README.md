@@ -71,13 +71,14 @@ An application designed to help users manage medicine schedules and reminders.
 
 ---
 
-## 📊 GitHub Stats
+```markdown
+## 🧠 Areas of Interest
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=akhilesh-m22&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhilesh-m22&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Time-Series Forecasting
+- ⚙️ Backend & Software Engineering
+- 🌐 Distributed Systems & Networking
+- 🔐 Cybersecurity & Linux
 ---
 
 ## 🤝 Connect With Me
