@@ -1,6 +1,16 @@
+<div align="center">
+
 # 👋 Hi, I'm Akhilesh M
 
-### Computer Science Engineering Student • AI/ML • Software Engineering • Cybersecurity
+### AI/ML • Software Engineering • Cybersecurity 
+
+*Computer Science Engineering Student building things with code, data and curiosity.*
+
+[![GitHub](https://img.shields.io/badge/GitHub-akhilesh--m22-181717?style=for-the-badge\&logo=github)](https://github.com/akhilesh-m22)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+</div>
 
 I enjoy building things that combine **machine learning, software engineering, and systems** — from ML models and data-driven applications to distributed systems and networking tools.
 
